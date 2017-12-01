@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:monine="http://www.tookbra.com/schema/monine"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+                            http://www.tookbra.com/schema/monine http://www.tookbra.com/schema/monine.xsd">
+
+    <monine:application name="provider" version="0.0.1"/>
+</beans>
